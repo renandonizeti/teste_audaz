@@ -1,0 +1,8 @@
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\bin\Debug\FareController.exe.config
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\bin\Debug\FareController.exe
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\bin\Debug\FareController.pdb
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\obj\Debug\FareController.csproj.AssemblyReference.cache
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\obj\Debug\FareController.csproj.SuggestedBindingRedirects.cache
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\obj\Debug\FareController.csproj.CoreCompileInputs.cache
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\obj\Debug\FareController.exe
+C:\Users\dieiv\Documents\Teste-Dev-Audaz\FareController\obj\Debug\FareController.pdb
